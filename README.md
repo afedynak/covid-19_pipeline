@@ -46,3 +46,26 @@ Additionally, the following Python libraries are be required:
 - `numpy`
 - `matplotlib`
 - `seaborn`
+
+## Outputs
+After the pipeline runs successfully, the following output files will be generated:
+
+final_report.tsv: Comprehensive report containing all the processed data, including mutation frequencies, lineage predictions, coverage statistics.
+
+aligned_bam_files/: Directory containing the aligned BAM files from ViralRecon.
+
+vcf_files/: Directory containing the VCF files with identified variants.
+
+coverage_reports/: Samtools coverage analysis reports.
+
+lineages_report/: ALCOV lineage prediction results.
+
+## Contact Information
+This pipeline is part of the Wastewater Surveillance Initiative, which aims to track the prevalence and spread of SARS-CoV-2 variants through wastewater samples. For more information or inquiries related to the pipeline, please contact:
+
+Amber Fedynak
+
+Email: 
+
+
+We encourage collaboration and welcome any feedback or contributions to improve the pipeline. If you have any questions regarding the usage or adaptation of the pipeline for specific projects, feel free to reach out.
