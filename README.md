@@ -69,3 +69,5 @@ Email:
 
 
 We encourage collaboration and welcome any feedback or contributions to improve the pipeline. If you have any questions regarding the usage or adaptation of the pipeline for specific projects, feel free to reach out.
+<br>
+DOI: https://www.nature.com/articles/s41598-024-76925-6
