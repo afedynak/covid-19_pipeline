@@ -61,11 +61,7 @@ coverage_reports/: Samtools coverage analysis reports.
 lineages_report/: ALCOV lineage prediction results.
 
 ## Contact Information
-This pipeline aims to track the prevalence and spread of SARS-CoV-2 variants through wastewater samples. For more information or inquiries related to the pipeline, please contact:
-
-Amber Fedynak
-
-Email: 
+This pipeline aims to track the prevalence and spread of SARS-CoV-2 variants through wastewater samples. For more information or inquiries related to the pipeline, please open a GihHub issue.
 
 
 We encourage collaboration and welcome any feedback or contributions to improve the pipeline. If you have any questions regarding the usage or adaptation of the pipeline for specific projects, feel free to reach out.
