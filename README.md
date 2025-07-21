@@ -4,6 +4,8 @@
 
 This pipeline processes SARS-CoV-2 variant data from raw sequencing files to the final report. It leverages various tools and steps for quality control, alignment, variant calling, lineage prediction, and coverage assessment. The pipeline provides valuable insights into viral variants, including VOC (Variants of Concern) detection, mutation frequencies, depth of coverage, and more.
 
+DOI: https://doi.org/10.1038/s41598-024-76925-6
+
 ## Key Steps in the Pipeline
 
 1. **Data Preparation and File Organization**
